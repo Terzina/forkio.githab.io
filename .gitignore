@@ -1,0 +1,8 @@
+.idea/**/*
+.vscode/
+*.iml
+*.xml
+node_modules/**/*
+package-lock.json
+gulpfile.js
+# Created by .ignore support plugin (hsz.mobi)
